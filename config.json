@@ -1,0 +1,18 @@
+{
+  "zone_name": "Main gate - No Smoking Zone",
+  "camera": "usb",
+  "camera_index": 0,
+  "frame_width": 640,
+  "frame_height": 480,
+  "process_fps": 8,
+  "closeness": 0.28,
+  "hold_seconds": 1.0,
+  "gestures_needed": 3,
+  "window_seconds": 90,
+  "cooldown_seconds": 30,
+  "send_photo": true,
+  "mark_face": true,
+  "quiet_hours": { "enabled": false, "start": "18:00", "end": "07:00" },
+  "log_file": "events.csv",
+  "save_snapshots": false
+}
